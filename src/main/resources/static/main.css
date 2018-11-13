@@ -1,0 +1,7 @@
+.table-icon {
+    color: rgba(0,0,0,.4);
+}
+
+.table-icon:hover {
+    color: rgba(0,0,0,1);
+}
